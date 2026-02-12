@@ -1,0 +1,3 @@
+id|userid|username|password|salt|balance
+1|100041|eq|3655186178831213402|v0NDzNO2LAIx9eME|0
+2|118467|chenchoy|9672584974828939648|MDBvUo6hl25kYxac|1000
